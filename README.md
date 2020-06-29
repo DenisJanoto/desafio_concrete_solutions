@@ -27,17 +27,11 @@ Conheça melhor a aplicação com o video demonstrativo do Mioper
 <p align="center">
   <img title="First Screen Splash" alt="First Screen Splash Screen" src="https://user-images.githubusercontent.com/29108604/86055916-f634ad80-ba32-11ea-991a-415131d497dd.gif">
   &emsp;
-  <img title="Login Mioper" alt="Login Mioper" src="https://i.imgur.com/1ug3izc.gif">
+  <img title="Login Mioper" alt="Login Mioper" src="https://user-images.githubusercontent.com/29108604/86056244-8bd03d00-ba33-11ea-89b9-29203e53b05a.gif">
   &emsp;
   <img alt="Navigation Screen 1" title="Navigation Screen 1" src="https://i.imgur.com/2LcqdoJ.gif">
 </p>
-<p align="center">
-  <img title="Navigation Screen 2" alt="Navigation Screen 2" src="https://i.imgur.com/hTSDaOU.gif">
-  &emsp;
-  <img title="Navigation Screen 3" alt="Navigation Screen 3" src="https://i.imgur.com/ZphbS0x.gif">
-  &emsp;
-  <img alt="Navigation Screen 4" title="Navigation Screen 4" src="https://i.imgur.com/lNGzdna.gif">
-</p>
+
 
 
 ## Bibliotecas Utilizadas
