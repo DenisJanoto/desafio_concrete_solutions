@@ -9,9 +9,9 @@ Projeto realizado para o desafio ios da empresa concrete solutions - Desenvolvid
   &emsp;
   <img title="Login Mioper" alt="Login Mioper" src="https://user-images.githubusercontent.com/29108604/86056244-8bd03d00-ba33-11ea-89b9-29203e53b05a.gif">
   &emsp;
+    <img title="Login Mioper" alt="Login Mioper" src="https://user-images.githubusercontent.com/29108604/86065320-af03e800-ba45-11ea-9d8d-21a11f0d82f0.gif">
+  &emsp;
 </p>
-
-
 
 ## Features
 
