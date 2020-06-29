@@ -1,10 +1,6 @@
 # desafio_concrete_solutions
 
-Conheça melhor a aplicação com o video demonstrativo do Mioper
-
-## O que é?
-<div style="text-align: justify;">O objetivo do desenvolvimento do aplicativo MIOPER é oferecer uma solução para que  usuários possam locomover-se de maneira acessível e prática, tendo como intermediário um aplicativo que realizará todo o gerenciamento de veículos disponíveis bem como suas rotas e custos a serem cobrados do ponto A ao ponto B. Ao mesmo tempo gerar uma renda extra para os motoristas de transportes coletivos privados e incentivar o uso desse tipo de transporte para contribuição da redução de trânsitos, principalmente nas grandes cidades.</div>
-
+Projeto realizado para o desafio ios da empresa concrete solutions - Desenvolvido apenas para fins de estudos.
 
 ## Imagens Demonstrativas da Aplicação
 
@@ -17,15 +13,14 @@ Conheça melhor a aplicação com o video demonstrativo do Mioper
 
 
 
-## Bibliotecas Utilizadas
+## Features
 
-- [Card View](https://developer.android.com/reference/androidx/cardview/widget/CardView?hl=en "CArd View")
-- [Butter Knife](https://jakewharton.github.io/butterknife/ "Butter Knife")
-- [Firebase](https://firebase.google.com/?hl=pt-br "Firebase")
-- [Glide](https://bumptech.github.io/glide/ "Glide")
-- [Picasso](https://square.github.io/picasso/ "Picasso")
-- [Lottie](https://lottiefiles.com/ "Lottie")
-- [Recycler View](https://developer.android.com/reference/androidx/recyclerview/widget/package-summary?hl=en "Recycler View")
-- [Mak Edit Text](https://codinginflow.com/tutorials/android/mask-edittext "Mak Edit Text")
-- [Navigation](https://developer.android.com/guide/navigation "Navigation")
-- [Maps](https://developer.android.com/training/maps "Maps")
+- Xcode 12 Swift 5.3
+- Layout em abas, contendo na primeira aba a tela de grid de filmes e na segunda aba a tela de lista de filmes favoritados no app
+- Tela de grid de filmes trazendo a lista de filmes populares da API
+- Ao clicar em um filme do grid deve navegar para a tela de detalhe do filme
+- Tela de Detalhe do filme deve conter ação para favoritar o filme
+- Tela de Detalhe do filme deve conter gênero do filme por extenso (ex: Action, Horror, etc); Use esse request da API para trazer a lista
+- Tela de favoritos deve permitir desfavoritar um filme
+- Tela de grid com busca local
+- Scroll Infinito para fazer paginação da API de filmes populares
