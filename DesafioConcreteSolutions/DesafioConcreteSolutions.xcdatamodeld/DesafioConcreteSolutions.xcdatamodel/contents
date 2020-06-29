@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19E287" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="MovieTable" representedClassName="MovieTable" syncable="YES" codeGenerationType="class">
+        <attribute name="movieDescription" optional="YES" attributeType="String"/>
+        <attribute name="movieGenre" optional="YES" attributeType="String"/>
+        <attribute name="movieId" optional="YES" attributeType="String"/>
+        <attribute name="movieImagePath" optional="YES" attributeType="String"/>
+        <attribute name="movieTitle" optional="YES" attributeType="String"/>
+        <attribute name="movieYear" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="MovieTable" positionX="-63" positionY="36" width="128" height="133"/>
+    </elements>
+</model>
