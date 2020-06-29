@@ -1,6 +1,6 @@
 # desafio_concrete_solutions
 
-Projeto realizado para o desafio ios da empresa concrete solutions - Desenvolvido apenas para fins de estudos.
+Projeto realizado para o desafio ios developer da empresa concrete solutions - Desenvolvido apenas para fins de estudos.
 
 ## Imagens Demonstrativas da Aplicação
 
