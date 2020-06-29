@@ -29,7 +29,6 @@ Conheça melhor a aplicação com o video demonstrativo do Mioper
   &emsp;
   <img title="Login Mioper" alt="Login Mioper" src="https://user-images.githubusercontent.com/29108604/86056244-8bd03d00-ba33-11ea-89b9-29203e53b05a.gif">
   &emsp;
-  <img alt="Navigation Screen 1" title="Navigation Screen 1" src="https://i.imgur.com/2LcqdoJ.gif">
 </p>
 
 
