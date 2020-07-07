@@ -2,17 +2,8 @@
 
 Projeto realizado para o desafio ios developer da empresa concrete solutions - Desenvolvido apenas para fins de estudos.
 
-## Imagens Demonstrativas da Aplicação
-
-<p align="center">
-  <img title="Login Mioper" alt="Login Mioper" src="https://user-images.githubusercontent.com/29108604/86065320-af03e800-ba45-11ea-9d8d-21a11f0d82f0.gif">
-  &emsp;
-  <img title="Login Mioper" alt="Login Mioper" src="https://user-images.githubusercontent.com/29108604/86056244-8bd03d00-ba33-11ea-89b9-29203e53b05a.gif">
-  &emsp;
-  <img title="First Screen Splash" alt="First Screen Splash Screen" src="https://user-images.githubusercontent.com/29108604/86055916-f634ad80-ba32-11ea-991a-415131d497dd.gif">
-  &emsp;
-
-</p>
+## Objetivos
+Possibilitar ao usuário visuaizar os filmes mais populares retornados do site The Movie DB, permitindo o mesmo favoritar seus filmes favoritos.
 
 ## Features
 
@@ -26,3 +17,15 @@ Projeto realizado para o desafio ios developer da empresa concrete solutions - D
 - Scroll infinito para fazer paginação da API de filmes populares
 - Tela de lista de favoritos persistido no app entre sessões
 - Célula do grid de filmes com informação se o filme foi favoritado no app ou não
+
+## Imagens Demonstrativas da Aplicação
+
+<p align="center">
+  <img title="Login Mioper" alt="Login Mioper" src="https://user-images.githubusercontent.com/29108604/86065320-af03e800-ba45-11ea-9d8d-21a11f0d82f0.gif">
+  &emsp;
+  <img title="Login Mioper" alt="Login Mioper" src="https://user-images.githubusercontent.com/29108604/86056244-8bd03d00-ba33-11ea-89b9-29203e53b05a.gif">
+  &emsp;
+  <img title="First Screen Splash" alt="First Screen Splash Screen" src="https://user-images.githubusercontent.com/29108604/86055916-f634ad80-ba32-11ea-991a-415131d497dd.gif">
+  &emsp;
+</p>
+
