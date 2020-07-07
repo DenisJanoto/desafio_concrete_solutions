@@ -3,7 +3,7 @@
 Projeto realizado para o desafio ios developer da empresa concrete solutions - Desenvolvido apenas para fins de estudos.
 
 ## Objetivos
-Possibilitar ao usuário visuaizar os filmes mais populares retornados do site The Movie DB, permitindo o mesmo favoritar seus filmes favoritos.
+Possibilitar ao usuário visualizar os filmes mais populares retornados do site The Movie DB, permitindo o mesmo favoritar seus filmes favoritos.
 
 ## Features
 
